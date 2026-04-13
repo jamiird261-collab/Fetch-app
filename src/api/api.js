@@ -38,5 +38,4 @@ useEffect(() => {
     </div>
   )
 )}
-<button onClick={fetchGame}>Get Another Game</button>
-https://www.gamerpower.com/api/giveaways
+<button onClick={fetchGame}src="https://www.gamerpower.com/api/giveaways">Get Another Game</button>
